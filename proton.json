@@ -1,0 +1,14 @@
+
+{
+  "kernel": {
+  "name": "Proton",
+  "version": "2.1",
+  "link": "https://github.com/ProtonKernel/Proton/releases/download/v2.1/Proton+_v2-KSU-r9s-20250118-1720.zip",
+  "changelog_url": "",
+  "date": "2025-1-18",
+  "sha1": ""
+  },
+  "support": {
+    "link": "https://t.me/eliteui_chat"
+  }
+}
