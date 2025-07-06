@@ -1,0 +1,12 @@
+
+{
+  "kernel": {
+  "name": "Proton+",
+  "version": "5.1",
+  "link": "https://github.com/ProtonKernel/Proton/releases/download/v5.1/ProtonPlus-v5.1-KSU-exynos2100-20250701-1813.zip",
+  "date": "2025-07-01",
+  },
+  "support": {
+    "link": "https://t.me/ProtonPlusCM"
+  }
+}
